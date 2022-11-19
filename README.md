@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realokd
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning AngularJs 
+- 👀 I’m interested in web devlopment, devOps , networking and cyberSecurity
+- 🌱 I’m working with learning AngularJs and ReactJs to build modern javascript applications
 - 📫 My Email address: realokd06@gmail.com
 
 <!---
