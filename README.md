@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @realokd
 - 👀 I’m interested in web devlopment, devOps , networking and cyberSecurity
-- 🌱 I can work in AngularJs and ReactJs to build modern javascript applications
+- 🌱 I can work in AngularJs, ReactJs, Nextjs and Typescript to build modern javascript applications
+- 👀 Open to collaborate and build projects 
 - 📫 My Email address: realokd06@gmail.com
 
 <!---
